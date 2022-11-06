@@ -7,42 +7,42 @@
         "Bot",
         "Modular"
     ],
-    "website": "https://telegram.me/SDMN_CheckerBot",
-    "repository": "https://github.com/iam-NVN/SDMN_CheckerBot",
+    "website": "https://telegram.me/Hofnar05Sell_BOT",
+    "repository": "https://github.com/hofnarcc/Telegram-CC-Checker-Bot",
     "env": {
         "BOT_TOKEN": {
-            "description": "Enter your Bot Token Here. Get it from @Botfather",
-            "value": "",
+            "description": "5651393430:AAEnIgwhh1R-7cepRUoZ0QlXT4i9CLvrOPA",
+            "value": "5651393430:AAEnIgwhh1R-7cepRUoZ0QlXT4i9CLvrOPA",
             "required": true
         },
         "ADMIN_ID": {
-            "description": "Enter the User ID of Admin.",
-            "value": "",
+            "description": "terrorboy2020@protonmail.com",
+            "value": "terrorboy2020@protonmail.com",
             "required": true
         },
         "LOGS_DUMP_ID": {
-            "description": "Enter the ID of a Group/Channel to store Logs",
-            "value": "",
+            "description": "5367143058",
+            "value": "5367143058",
             "required": true
         },
         "DB_HOST": {
-            "description": "Database URL",
-            "value": "",
+            "description": "sql9.freesqldatabase.com",
+            "value": "sql9.freesqldatabase.com",
             "required": true
         },
         "DB_USERNAME": {
-            "description": "Database Username",
-            "value": "",
+            "description": "sql9546646",
+            "value": "sql9546646",
             "required": true
         },
         "DB_PASSWORD": {
-            "description": "Database Password",
-            "value": "",
+            "description": "Password",
+            "value": "JRbmAXQ4jg",
             "required": true
         },
         "DB_NAME": {
             "description": "Database Name",
-            "value": "",
+            "value": "sql9546646",
             "required": true
         },
         "ANTISPAM_TIMER": {
